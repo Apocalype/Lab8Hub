@@ -25,6 +25,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="FLab_8.py" />
+    <Compile Include="Lab2.py" />
     <Compile Include="Lab8.py" />
     <Compile Include="PythonApplication1.py" />
   </ItemGroup>
