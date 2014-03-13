@@ -31,8 +31,8 @@ class Pole:
        
         
     def pushdisk(self,d):
-        #d.cleardisk()
         d.newpos(self.x,self.top)
+        d.showdisk()
         
         d.cleardisk()
         d.newpos(self.x,self.y + (len(self.stack)*d.h))
@@ -133,3 +133,7 @@ class Hanoi(object):
 
 h = Hanoi()
 h.solve()
+
+
+
+
