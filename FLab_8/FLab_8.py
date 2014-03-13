@@ -29,7 +29,7 @@ class Simple_drawing_window3(QWidget):
 def main():
     app = QApplication(sys.argv)
 
-    w = Simple_drawing_window()
+    w = Simple_drawing_window3()
     w.show()
 
     return app.exec_()
