@@ -24,5 +24,12 @@
   <ItemGroup>
     <Compile Include="FLab_8.py" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="images\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="images\cat.png" />
+    <Content Include="images\rabbit.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
 </Project>
