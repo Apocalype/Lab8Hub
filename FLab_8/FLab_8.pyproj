@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>4409caae-3072-4e96-9682-ef59980b94f6</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>FLab_8.py</StartupFile>
+    <StartupFile>PuHanoi.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,6 +23,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="FLab_8.py" />
+    <Compile Include="PuHanoi.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="images\" />
