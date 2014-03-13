@@ -25,8 +25,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="FLab_8.py" />
+    <Compile Include="Hanoi.py" />
     <Compile Include="Lab2.py" />
     <Compile Include="Lab8.py" />
+    <Compile Include="PuHanoi.py" />
     <Compile Include="PythonApplication1.py" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
