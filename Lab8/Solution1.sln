@@ -3,6 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Lab8", "Lab8.pyproj", "{6AF9E900-1971-4FAD-BC3B-614DB3BE7A42}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D1C9114E-0839-46CC-8E11-7E76BDF18C01}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Lab8Hub\FLab_8.py = ..\..\..\Lab8Hub\FLab_8.py
+		..\..\..\Lab8Hub\PythonApplication1.py = ..\..\..\Lab8Hub\PythonApplication1.py
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
