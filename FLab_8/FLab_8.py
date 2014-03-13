@@ -1,3 +1,2 @@
 print('Hello World')
-print('fuuuuuuuuuuuuuuu!!!!')
-print('?????')
+print('Nothing....')
