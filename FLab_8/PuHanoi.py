@@ -82,7 +82,6 @@ h.solve()
 
 '''
 
-
 # test run of Disk class
 
 d = Disk()
